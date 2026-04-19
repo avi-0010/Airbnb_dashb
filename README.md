@@ -47,11 +47,11 @@ User engagement insights
 🖼️ Dashboard Preview
 📍 Listings & Growth Dashboard
 
-Dashboard 1 
+Dashboard 1 https://github.com/avi-0010/Airbnb_dashb/blob/main/snapshot%20of%20overall.png
 
 📍 Market, Pricing & Ratings Dashboard
 
-Dashboard 2
+Dashboard 2 
 
 📊 6. Business Impact
 📈 Identifies peak growth phases to guide expansion strategies
