@@ -1,31 +1,64 @@
-# Airbnb_dashb
+🏡 Global Airbnb Performance Dashboard
 
-🏡 1. Project Title
+📌 1. Project Title
 
 Global Airbnb Performance Dashboard
 
-📌 2. Description & Purpose
+🎯 2. Description & Purpose
 
-This project analyzes Airbnb review data to uncover user behavior, seasonal trends, and engagement patterns.
-The purpose is to transform raw data into meaningful insights that help understand platform performance and support data-driven decision-making.
+This project analyzes Airbnb data to uncover market trends, user engagement, pricing behavior, and city-level performance.
+The goal is to convert raw data into actionable insights that help understand platform growth and support strategic decisions.
 
 🛠️ 3. Tech Stack
-Power BI – Data visualization & dashboard creation
-DAX – Calculations and measures
-Data Cleaning – Data preprocessing
-
+📊 Power BI – Dashboard & visualization
+🧠 DAX – Measures and calculations
+🧹 Data Cleaning – Data preprocessing
 📂 4. Data Source
-Kaggle Dataset
 
+📍 Kaggle Dataset
+
+Listings data
+Reviews data
+City-level information
+Pricing and rating details
 🚀 5. Features & Highlights
-KPI cards showing total reviews, total reviewers, and engagement rate
-Monthly trend analysis to identify seasonal patterns
-Clean and minimal dashboard design for better readability
-Insight-driven storytelling using key metrics
-Identification of user engagement patterns (new vs repeat users)
+📊 Listings & Growth Analysis
+Tracks total listings, hosts, cities, and property types
+Shows Airbnb lifecycle (Introduction → Growth → Maturity → Decline → COVID impact)
+Identifies peak growth period (2015)
+🌍 Market Share by City
+Compares top cities like Paris, NYC, Sydney
+Displays cumulative market share (%)
+Highlights concentration of listings in major cities
+💰 Pricing Analysis
+Compares price across:
+Hotel rooms
+Entire homes
+Shared & private rooms
+Identifies premium pricing segments
+⭐ Ratings Analysis
+City-wise rating comparison
+Identifies best vs worst performing cities
+Highlights improvement opportunities
+📈 Review Trends
+Monthly review patterns
+Seasonal demand analysis
+User engagement insights
+🖼️ Dashboard Preview
+📍 Listings & Growth Dashboard
+
+Dashboard 1 
+
+📍 Market, Pricing & Ratings Dashboard
+
+Dashboard 2
 
 📊 6. Business Impact
-Identifies peak demand periods to optimize pricing and marketing strategies
-Highlights low engagement (1.7 reviews/user), indicating need for better retention strategies
-Helps in improving off-season performance through targeted campaigns
-Supports data-driven decision making for platform growth and user engagement.
+📈 Identifies peak growth phases to guide expansion strategies
+🌍 Reveals city-level dominance, helping focus on high-performing markets
+💰 Highlights pricing gaps, enabling better pricing strategies
+⭐ Shows quality differences across cities, improving customer experience
+🔁 Indicates reliance on new users over repeat users, suggesting need for retention strategies
+🧠 Key Insight
+
+Airbnb’s growth is concentrated in a few major cities, while pricing and engagement patterns reveal strong opportunities for retention improvement and market expansion.
