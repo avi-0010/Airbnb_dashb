@@ -54,7 +54,7 @@ Dashboard 1 https://github.com/avi-0010/Airbnb_dashb/blob/main/snapshot%20of%20o
 Dashboard 2 https://github.com/avi-0010/Airbnb_dashb/blob/main/snapshot%20of%20Ratings%20(3).png
 
 📍 Reviews & User Engagement Dashboard
-Dashboard 3 
+Dashboard 3 https://github.com/avi-0010/Airbnb_dashb/blob/main/snapshot%20of%20review%20(2).png
 
 📊 6. Business Impact
 📈 Identifies peak growth phases to guide expansion strategies
